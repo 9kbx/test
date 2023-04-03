@@ -1,0 +1,1 @@
+import{K as a,o as s,a as t,b as e}from"./vue.e20a9695.js";const o={class:"layout-padding"},i=e("div",{class:"layout-padding-auto layout-padding-view"},[e("div",{class:"w100 h100 flex"},[e("div",{class:"flex-margin color-primary"},"filtering-details 测试界面")])],-1),n=[i],l=a({name:"pagesFilteringDetails"}),p=a({...l,setup(c){return(d,r)=>(s(),t("div",o,n))}});export{p as default};
