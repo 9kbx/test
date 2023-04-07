@@ -1,1 +1,0 @@
-import{l as e,m as u}from"./index.32ca2701.js";function f(s){return e().userInfos.authBtnList.some(r=>r===s)}function i(s){let t=!1;return e().userInfos.authBtnList.map(n=>{s.map(o=>{n===o&&(t=!0)})}),t}function m(s){const t=e();return u(s,t.userInfos.authBtnList)}export{f as a,i as b,m as c};
