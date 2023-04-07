@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{o as _,a as o}from"./vue.e20a9695.js";const a={},c={class:"layout-padding"};function s(t,d){return _(),o("div",c)}const p=e(a,[["render",s],["__scopeId","data-v-4c073517"]]);export{p as default};
